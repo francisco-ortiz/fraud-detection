@@ -197,18 +197,14 @@ The publications intentionally focus on **findings, reasoning and evidence**, ra
 
 ```text
 fraud-detection/
-│
 ├── README.md
-│
-├── article/
-│   ├── Establishing a Meaningful Baseline.md
-│   ├── Translating Fraud Risk into Operational Actions.md
-│   └── ...
-│
-├── figures/
-│   ├── ...
-│
-└── ...
+└── article/
+    ├── figures/
+    │   ├── figure_01_precision_recall_threshold.png
+    │   └── ...
+    ├── Establishing a Meaningful Baseline.md
+    ├── ranslating Fraud Risk into Operational Actions.md
+    └── ...
 ```
 
 The repository will evolve as additional research cases are published.
