@@ -100,7 +100,7 @@ The important result is therefore not a particular operating point.
 It is the existence of a measurable relationship between **detection performance and operational intervention**.
 
 <p align="center">
-  <img src="figures/figure_01_precision_recall_threshold" alt="Precision Recall Thresholdn" width="450">
+  <img src="figures/figure_01_precision_recall_threshold.png" alt="Precision Recall Thresholdn" width="450">
 </p>
 
 **Figure 1** — Predictive performance across different operating conditions. The observed variation demonstrates that the operating point materially influences the relationship between fraud detection and false-positive exposure.
