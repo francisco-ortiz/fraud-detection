@@ -201,8 +201,8 @@ fraud-detection/
 ├── README.md
 │
 ├── article/
-│   ├── Establishing a Meaningful Baseline.pdf
-│   ├── Translating Fraud Risk into Operational Actions.pdf
+│   ├── Establishing a Meaningful Baseline.md
+│   ├── Translating Fraud Risk into Operational Actions.md
 │   └── ...
 │
 ├── figures/
