@@ -203,7 +203,7 @@ fraud-detection/
     │   ├── figure_01_precision_recall_threshold.png
     │   └── ...
     ├── Establishing a Meaningful Baseline.md
-    ├── ranslating Fraud Risk into Operational Actions.md
+    ├── Translating Fraud Risk into Operational Actions.md
     └── ...
 ```
 
