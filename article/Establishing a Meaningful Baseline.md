@@ -12,7 +12,7 @@ Using a transaction dataset with a highly asymmetric class distribution, we demo
 
 The result establishes a fundamental constraint for the investigation: **performance must be interpreted in the context of the event being detected, rather than through aggregate accuracy alone.**
 
-![[figure_01_class_distribution.png#center|359]]
+![](./figures/figure_01_class_distribution.png)
 
 **Figure 1** — Class distribution in the validation set. Fraudulent transactions represent only a small fraction of the evaluated population, creating a highly imbalanced classification problem.
 
@@ -79,7 +79,7 @@ A value close to 100% accuracy does not indicate a useful fraud detector.
 
 It primarily reflects the underlying class distribution.
 
-![[figure_02_baseline_confusion_matrix.png#center|271]]
+![](./figures/figure_02_baseline_confusion_matrix.png)
 
 **Figure 2** — Confusion matrix of the majority-class baseline. The classifier achieves high overall accuracy by predicting every transaction as legitimate, while detecting none of the fraudulent transactions.
 
